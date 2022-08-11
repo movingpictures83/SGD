@@ -1,0 +1,2 @@
+Prefix plugins/SGD/example/
+Plugin SGD inputfile parameters.txt outputfile output.txt

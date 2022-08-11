@@ -1,0 +1,5 @@
+inputfile	Merged-tiny.csv
+lr	0.00001
+epochs	2
+start	WS_S1
+stop	TWS_S25B
